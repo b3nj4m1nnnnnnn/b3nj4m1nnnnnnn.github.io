@@ -1,1 +1,10 @@
 <!DOCTYPE html>
+<html>
+<style>
+#page {
+    background-color: #424549;
+    font-family: 'Montserrat';
+    color: white;
+}
+</style>
+</html>
